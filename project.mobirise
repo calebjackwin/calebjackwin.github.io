@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "versionFirst": "3.8",
     "uniqCompNum": 32,
     "versionPublish": "3.12.1",
@@ -978,7 +978,7 @@
         }
       ]
     },
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
